@@ -1,0 +1,511 @@
+,type,tech,count
+0,test,ABBYY,3
+1,test,Adobe Analytics,4
+2,test,Adobe Audience Manager,1
+3,test,Adobe CC,1
+4,test,Adobe Launch,1
+5,test,Adobe Target,1
+6,test,Adobe XD,2
+7,test,ADONIS,1
+8,test,AFT Fathom,1
+9,test,Airflow,34
+10,test,AKS,4
+11,test,Alation,2
+12,test,Altium Designer,1
+13,test,Amadeus,1
+14,test,Amazon Connect,1
+15,test,Anaplan,3
+16,test,Android,50
+17,test,Android Studio,0
+18,test,Angular,73
+19,test,AngularJS,8
+20,test,Ansible,40
+21,test,Ansys,1
+22,test,Ant,2
+23,test,API Gateway,5
+24,test,APL,0
+25,test,App Engine,2
+26,test,Apple Health,1
+27,test,ArcGIS,7
+28,test,ARCore,2
+29,test,Argo,2
+30,test,Argo CD,2
+31,test,ARKit,3
+32,test,Asana,1
+33,test,ASP.NET,6
+34,test,Assembly,3
+35,test,Atom,0
+36,test,AutoCAD,2
+37,test,Autodesk,1
+38,test,Automation Anywhere,3
+39,test,Avaya,2
+40,test,Amazon Web Services,411
+41,test,Axure,1
+42,test,Azure,356
+43,test,Azure Data Lake,8
+44,test,Azure DevOps,21
+45,test,Azure Machine Learning,6
+46,test,Azure SQL,7
+47,test,Babylon.js,2
+48,test,Bash,62
+49,test,Bazel,2
+50,test,Beam,16
+51,test,BigQuery,21
+52,test,Bitbucket,19
+53,test,BlazeMeter,1
+54,test,Blue Prism,6
+55,test,Botmock,1
+56,test,Botsociety,1
+57,test,BSD,2
+58,test,Buck,1
+59,test,C#,131
+60,test,C++,321
+61,test,C,165
+62,test,Caffe,8
+63,test,Calico,2
+64,test,Camtasia,1
+65,test,Cassandra,11
+66,test,CentOS,10
+67,test,Ceph,5
+68,test,Chef,16
+69,test,ClearSCADA,1
+70,test,ClickHouse,1
+71,test,Clojure,0
+72,test,CloudFormation,13
+73,test,CMake,1
+74,test,COBOL,2
+75,test,Cognitive Search,2
+76,test,Collibra,3
+77,test,Confluence,40
+78,test,Cordova,3
+79,test,Core ML,3
+80,test,Cosmos DB,7
+81,test,Couchbase,5
+82,test,Craft,1
+83,test,CSS,102
+84,test,Cucumber,4
+85,test,CUDA,21
+86,test,Cykit,1
+87,test,Cypher,2
+88,test,Cypress,6
+89,test,Cython,1
+90,test,Dart,1
+91,test,Dash,1
+92,test,Dask,9
+93,test,Databrick(s),49
+94,test,Datadog,6
+95,test,DataFlow,2
+96,test,DataRobot,1
+97,test,DataStage,1
+98,test,Data Studio,4
+99,test,DB2,7
+100,test,DBT,4
+101,test,Debian,6
+102,test,Debussy,1
+103,test,Delphi,0
+104,test,Delta lake,2
+105,test,Deno,0
+106,test,Dialogflow,2
+107,test,DigitalOcean,2
+108,test,DirectX,6
+109,test,Discord,2
+110,test,Dispatcher,1
+111,test,Django,30
+112,test,DNS,8
+113,test,Doc(s),1
+114,test,Docker(s),179
+115,test,DPDK,2
+116,test,Druid,2
+117,test,Drupal,1
+118,test,DVC,2
+119,test,DynamoDB,32
+120,test,Dynatrace,5
+121,test,EC2,22
+122,test,Eclipse,4
+123,test,ECMAScript,4
+124,test,ECS,18
+125,test,EKS,17
+126,test,Elastic Beanstalk,1
+127,test,ElasticSearch,38
+128,test,Electron,3
+129,test,Elixir,3
+130,test,ELK,12
+131,test,Eloquent,1
+132,test,Emacs,0
+133,test,EMR,25
+134,test,Envoy Proxy,1
+135,test,EPICS,3
+136,test,Erlang,2
+137,test,Erwin,2
+138,test,Excel,104
+139,test,Express,10
+140,test,F#,0
+141,test,Falcon,2
+142,test,Fast.io,3
+143,test,FastAPI,2
+144,test,Felix,2
+145,test,Figma,8
+146,test,FileNet,1
+147,test,Firebase,4
+148,test,Flake8,2
+149,test,Flask,12
+150,test,Flink,9
+151,test,Flood.io,1
+152,test,Flow,8
+153,test,Flutter,4
+154,test,FME Desktop,2
+155,test,FME Server,2
+156,test,FOG,1
+157,test,Fortran,1
+158,test,Gatsby,1
+159,test,Google Cloud,136
+160,test,GDB,2
+161,test,Gimp,2
+162,test,Git,141
+163,test,GitHub,54
+164,test,Gitlab,39
+165,test,GKE,4
+166,test,Glow,2
+167,test,Gmail,2
+168,test,Go,96
+169,test,Google Ads,2
+170,test,Google Analytics,9
+171,test,Google Calendar,2
+172,test,Google Fit,1
+173,test,Google Marketing Platform,2
+174,test,Google Suite,4
+175,test,Google Tag Manager,1
+176,test,Gradle,3
+177,test,Grafana,11
+178,test,GraphQL,17
+179,test,Groovy,6
+180,test,GRPC,6
+181,test,GStreamer,2
+182,test,H2O,7
+183,test,Hack,1
+184,test,Hacklang,1
+185,test,Hadoop,104
+186,test,Handlebars,2
+187,test,Happo,1
+188,test,Haskell,1
+189,test,HBase,13
+190,test,Heroku,5
+191,test,HDInsight(s),0
+192,test,HHVM,1
+193,test,Hibernate,9
+194,test,HIP,0
+195,test,Hive,50
+196,test,HLSL,2
+197,test,Hootsuite,1
+198,test,Horovod,3
+199,test,HTML,89
+200,test,HubSpot,2
+201,test,Hudi,1
+202,test,Hyperion,2
+203,test,Hyperscience,2
+204,test,Hyper V,4
+205,test,IBM Cloud,2
+206,test,IBM IGC,2
+207,test,IBM Watson,2
+208,test,Iceberg,1
+209,test,Illustrator,3
+210,test,InfluxDB,8
+211,test,Informatica,12
+212,test,InsightVM,2
+213,test,InSpec,0
+214,test,IntelliJ,1
+215,test,Invision,2
+216,test,iOS,57
+217,test,Istio,4
+218,test,Ixia,1
+219,test,Jackrabbit,2
+220,test,JADE,1
+221,test,Jaeger,2
+222,test,Java,373
+223,test,JavaOS,1
+224,test,JavaScript,271
+225,test,JCR,2
+226,test,Jenkins,79
+227,test,Jetson,0
+228,test,Jira,93
+229,test,JMeter,5
+230,test,JMP,1
+231,test,jQuery,20
+232,test,Juju,1
+233,test,Julia,2
+234,test,Jupyter,8
+235,test,JupyterLab,3
+236,test,Jupyter Notebook,4
+237,test,Kafka,56
+238,test,Karate,1
+239,test,Kegg,1
+240,test,Keras,38
+241,test,Kibana,7
+242,test,Kinesis,20
+243,test,Kotlin,13
+244,test,Ksh,1
+245,test,Kubeflow,8
+246,test,Kubernetes,193
+247,test,Lambda(s),33
+248,test,Laravel,8
+249,test,LDQ,0
+250,test,Leaflet,1
+251,test,Lex,2
+252,test,Linode,1
+253,test,Linux,271
+254,test,LISP,0
+255,test,LLDB,1
+256,test,LLVM,11
+257,test,Locust,2
+258,test,Logstash,4
+259,test,Looker,7
+260,test,Lua,4
+261,test,Lucene,4
+262,test,Lucidchart,1
+263,test,LUIS,2
+264,test,MacOS,31
+265,test,Mari,1
+266,test,MariaDB,0
+267,test,MasterCAM,1
+268,test,Mathcad,1
+269,test,Matlab,21
+270,test,Matplotlib,11
+271,test,Maven,6
+272,test,Max,1
+273,test,Maya,1
+274,test,Mercurial,2
+275,test,Metasploit,1
+276,test,Microsoft 365,4
+277,test,Microsoft Deployment Toolkit,1
+278,test,Microsoft Office,52
+279,test,Microsoft Project,5
+280,test,Microsoft SQL Server,8
+281,test,Microsoft Teams,2
+282,test,MicroStation,1
+283,test,Microstrategy,4
+284,test,MLFlow,8
+285,test,MLlib,14
+286,test,Mocha,5
+287,test,Mockito,1
+288,test,MongoDB,35
+289,test,Mustache,2
+290,test,MXNet,12
+291,test,Mypy,2
+292,test,MySQL,59
+293,test,Neo4j,5
+294,test,Neovim,0
+295,test,Nessus,2
+296,test,NestJS,1
+297,test,.NET,59
+298,test,.NET Core,7
+299,test,.NET Framework,6
+300,test,NetBeans,0
+301,test,New Relic,3
+302,test,Nexus,2
+303,test,Nginx,4
+304,test,NLTK,6
+305,test,Node.js,71
+306,test,Notepad++,0
+307,test,Nuance,1
+308,test,Nuke,1
+309,test,NumPy,35
+310,test,OAuth,4
+311,test,Objective C,9
+312,test,Omnify,1
+313,test,Onshape,1
+314,test,ONNX,8
+315,test,OpenCl,15
+316,test,OpenCV,23
+317,test,OpenGL,8
+318,test,OpenLDAP,1
+319,test,OpenMP,1
+320,test,OpenShift,12
+321,test,Openstack,7
+322,test,OpenTracing,2
+323,test,OpenVINO,5
+324,test,Oracle,56
+325,test,Oracle Cloud,1
+326,test,OrCAD,1
+327,test,OSGI,4
+328,test,OWASP,1
+329,test,PagerDuty,4
+330,test,Pandas,44
+331,test,Pega,1
+332,test,Perforce,4
+333,test,Perl,44
+334,test,Photoshop,7
+335,test,PHP,33
+336,test,PHPStorm,0
+337,test,PlayFab,1
+338,test,PostGIS,1
+339,test,PostgreSQL,75
+340,test,Power BI,51
+341,test,Powerpoint,52
+342,test,PowerShell,20
+343,test,Pre Commit,2
+344,test,Presto,11
+345,test,Prometheus,14
+346,test,ProtoBuf,5
+347,test,Protractor,6
+348,test,Pulumi,0
+349,test,Puppet,15
+350,test,PureCloud,1
+351,test,PureConnect,1
+352,test,Pure Data,1
+353,test,PyCharm,3
+354,test,PyQt,1
+355,test,PySpark,9
+356,test,Pytest,7
+357,test,Python,732
+358,test,PyTorch,96
+359,test,QGIS,5
+360,test,Qlik,2
+361,test,QML,1
+362,test,Qt,4
+363,test,Quarkus,4
+364,test,R,108
+365,test,RabbitMQ,15
+366,test,Radium,0
+367,test,RAML,1
+368,test,Rasa,1
+369,test,React,149
+370,test,React Native,10
+371,test,Reaktor,1
+372,test,Redis,28
+373,test,Redshift,51
+374,test,Redux,9
+375,test,RESTful,26
+376,test,Restlet,2
+377,test,Rider,0
+378,test,Rook,3
+379,test,ROS,6
+380,test,R Shiny,2
+381,test,RSpec,1
+382,test,RStudio,0
+383,test,Ruby,37
+384,test,RubyMine,0
+385,test,Ruby on Rails,8
+386,test,Rust,12
+387,test,RxSwift,1
+388,test,S3,43
+389,test,SABA cloud,1
+390,test,Sabre,1
+391,test,SageMaker,18
+392,test,Salesforce,17
+393,test,SaltStack,2
+394,test,SAP,23
+395,test,SAS,28
+396,test,Scala,53
+397,test,Scala.js,2
+398,test,SciKit Learn,53
+399,test,Scipy,14
+400,test,Seaborn,2
+401,test,Selenium,25
+402,test,Sentry,3
+403,test,ServiceNow,4
+404,test,SharePoint,14
+405,test,Sheet(s),2
+406,test,Shell,35
+407,test,SignalFx,2
+408,test,Singularity,6
+409,test,Sisense,2
+410,test,Sketch,7
+411,test,Slack,5
+412,test,Slide(s),1
+413,test,Slim,2
+414,test,Sling,4
+415,test,Slurm,7
+416,test,Snowflake,29
+417,test,Solaris,2
+418,test,SolidWorks,2
+419,test,Solr,4
+420,test,Spark,166
+421,test,Spinnaker,2
+422,test,Splunk,13
+423,test,Spring,26
+424,test,Spring Boot,7
+425,test,SQL,376
+426,test,SQLite,4
+427,test,Statsmodel(s),2
+428,test,Streamlit,1
+429,test,STRING,1
+430,test,Sublime Text,0
+431,test,Subversion,10
+432,test,Sumo Logic,4
+433,test,Svelte,0
+434,test,Swagger,3
+435,test,Swarm,10
+436,test,Swift,10
+437,test,Symfony,0
+438,test,SysDig,1
+439,test,Tableau,70
+440,test,Talend,4
+441,test,TBB,0
+442,test,Tealium,1
+443,test,TensorFlow,139
+444,test,Teradata,6
+445,test,Terraform,62
+446,test,TestRail,2
+447,test,TextMate,0
+448,test,Theano,6
+449,test,Three.js,3
+450,test,TM1Py,1
+451,test,Tomcat,5
+452,test,Torch,3
+453,test,Travelport,1
+454,test,TVM,5
+455,test,TypeScript,52
+456,test,Ubuntu,19
+457,test,UiPath,6
+458,test,UML,3
+459,test,Uniprot,1
+460,test,Unity,13
+461,test,Unix,77
+462,test,Unreal,16
+463,test,UrbanCode,1
+464,test,Vagrant,2
+465,test,Valgrind,1
+466,test,VBA,9
+467,test,VCS,1
+468,test,Verilog,6
+469,test,VHDL,2
+470,test,Vim,0
+471,test,Virtual Agent Designer,2
+472,test,Visio,6
+473,test,Visual Studio,9
+474,test,Visual Studio Code,1
+475,test,VMWare,17
+476,test,VoiceXML,2
+477,test,VPC(s),5
+478,test,vSphere,1
+479,test,Vue.js,31
+480,test,Vuforia,1
+481,test,Vulkan,3
+482,test,Vyond,1
+483,test,WebdriverIO,1
+484,test,WebGL,2
+485,test,WebRTC,1
+486,test,Webstorm,1
+487,test,Whois,1
+488,test,WinDbg,1
+489,test,Windows,111
+490,test,Word,52
+491,test,Wordpress,4
+492,test,Workfusion,2
+493,test,WSL,0
+494,test,Xamarin,4
+495,test,Xcode,2
+496,test,XLA,2
+497,test,XML,22
+498,test,xSQL,1
+499,test,YAML,1
+500,test,Yarn,2
+501,test,Yocto,5
+502,test,Zendesk,1
+503,test,Ziva,1
+504,test,ZMQ,1
+505,test,Zoho,1
+506,test,Zookeeper,3
+507,test,Zoom,3
+508,test,Zsh,1
+509,test,Delta Lake,7
