@@ -1,0 +1,2773 @@
+{
+  "data": {
+    "techs": [
+      {
+        "name": "Data Mining and Machine Learning",
+        "nodeid": 9300,
+        "children": [
+          {
+            "name": "Deep Learning Software",
+            "nodeid": 93000,
+            "children": [
+              {
+                "name": "TensorFlow",
+                "nodeid": 930000,
+                "children": []
+              },
+              {
+                "name": "PyTorch",
+                "nodeid": 930001,
+                "children": []
+              },
+              {
+                "name": "Keras",
+                "nodeid": 930002,
+                "children": []
+              },
+              {
+                "name": "MXNet",
+                "nodeid": 930003,
+                "children": []
+              },
+              {
+                "name": "Caffe",
+                "nodeid": 930004,
+                "children": []
+              },
+              {
+                "name": "Theano",
+                "nodeid": 930005,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Data Analytics Engines",
+            "nodeid": 93001,
+            "children": [
+              {
+                "name": "Spark",
+                "nodeid": 930010,
+                "children": []
+              },
+              {
+                "name": "Hive",
+                "nodeid": 930353,
+                "children": []
+              },
+              {
+                "name": "SAP",
+                "nodeid": 930354,
+                "children": []
+              },
+              {
+                "name": "SAS",
+                "nodeid": 930011,
+                "children": []
+              },
+              {
+                "name": "Kinesis",
+                "nodeid": 930209,
+                "children": []
+              },
+              {
+                "name": "Flink",
+                "nodeid": 930012,
+                "children": []
+              },
+              {
+                "name": "Google Analytics",
+                "nodeid": 930222,
+                "children": []
+              },
+              {
+                "name": "PySpark",
+                "nodeid": 930013,
+                "children": []
+              },
+              {
+                "name": "EMR",
+                "nodeid": 930204,
+                "children": []
+              },
+              {
+                "name": "Beam",
+                "nodeid": 930016,
+                "children": []
+              },
+              {
+                "name": "Looker",
+                "nodeid": 930221,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Machine Learning Software",
+            "nodeid": 93002,
+            "children": [
+              {
+                "name": "Scikit Learn",
+                "nodeid": 930020,
+                "children": []
+              },
+              {
+                "name": "OpenCV",
+                "nodeid": 930040,
+                "children": []
+              },
+              {
+                "name": "MLlib",
+                "nodeid": 930021,
+                "children": []
+              },
+              {
+                "name": "Kubeflow",
+                "nodeid": 930022,
+                "children": []
+              },
+              {
+                "name": "MLFlow",
+                "nodeid": 930023,
+                "children": []
+              },
+              {
+                "name": "H2O",
+                "nodeid": 930024,
+                "children": []
+              },
+              {
+                "name": "NLTK",
+                "nodeid": 930050,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Data Wrangling and Analytics",
+            "nodeid": 93003,
+            "children": [
+              {
+                "name": "Pandas",
+                "nodeid": 930030,
+                "children": []
+              },
+              {
+                "name": "NumPy",
+                "nodeid": 930031,
+                "children": []
+              },
+              {
+                "name": "SciPy",
+                "nodeid": 930032,
+                "children": []
+              },
+              {
+                "name": "Matplotlib",
+                "nodeid": 930033,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Computer Vision Software",
+            "nodeid": 93004,
+            "children": [
+              {
+                "name": "OpenCV",
+                "nodeid": 930040,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "NLP Softwre",
+            "nodeid": 93005,
+            "children": [
+              {
+                "name": "NLTK",
+                "nodeid": 930050,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Cloud AI/ML Platforms",
+            "nodeid": 93006,
+            "children": [
+              {
+                "name": "SageMaker",
+                "nodeid": 930207,
+                "children": []
+              },
+              {
+                "name": "Azure Machine Learning",
+                "nodeid": 930231,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tech Skills",
+        "nodeid": 93,
+        "children": [
+          {
+            "name": "Data Mining and Machine Learning",
+            "nodeid": 9300,
+            "children": [
+              {
+                "name": "Deep Learning Software",
+                "nodeid": 93000,
+                "children": [
+                  {
+                    "name": "TensorFlow",
+                    "nodeid": 930000,
+                    "children": []
+                  },
+                  {
+                    "name": "PyTorch",
+                    "nodeid": 930001,
+                    "children": []
+                  },
+                  {
+                    "name": "Keras",
+                    "nodeid": 930002,
+                    "children": []
+                  },
+                  {
+                    "name": "MXNet",
+                    "nodeid": 930003,
+                    "children": []
+                  },
+                  {
+                    "name": "Caffe",
+                    "nodeid": 930004,
+                    "children": []
+                  },
+                  {
+                    "name": "Theano",
+                    "nodeid": 930005,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Data Analytics Engines",
+                "nodeid": 93001,
+                "children": [
+                  {
+                    "name": "Spark",
+                    "nodeid": 930010,
+                    "children": []
+                  },
+                  {
+                    "name": "Hive",
+                    "nodeid": 930353,
+                    "children": []
+                  },
+                  {
+                    "name": "SAP",
+                    "nodeid": 930354,
+                    "children": []
+                  },
+                  {
+                    "name": "SAS",
+                    "nodeid": 930011,
+                    "children": []
+                  },
+                  {
+                    "name": "Kinesis",
+                    "nodeid": 930209,
+                    "children": []
+                  },
+                  {
+                    "name": "Flink",
+                    "nodeid": 930012,
+                    "children": []
+                  },
+                  {
+                    "name": "Google Analytics",
+                    "nodeid": 930222,
+                    "children": []
+                  },
+                  {
+                    "name": "PySpark",
+                    "nodeid": 930013,
+                    "children": []
+                  },
+                  {
+                    "name": "EMR",
+                    "nodeid": 930204,
+                    "children": []
+                  },
+                  {
+                    "name": "Beam",
+                    "nodeid": 930016,
+                    "children": []
+                  },
+                  {
+                    "name": "Looker",
+                    "nodeid": 930221,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Machine Learning Software",
+                "nodeid": 93002,
+                "children": [
+                  {
+                    "name": "Scikit Learn",
+                    "nodeid": 930020,
+                    "children": []
+                  },
+                  {
+                    "name": "OpenCV",
+                    "nodeid": 930040,
+                    "children": []
+                  },
+                  {
+                    "name": "MLlib",
+                    "nodeid": 930021,
+                    "children": []
+                  },
+                  {
+                    "name": "Kubeflow",
+                    "nodeid": 930022,
+                    "children": []
+                  },
+                  {
+                    "name": "MLFlow",
+                    "nodeid": 930023,
+                    "children": []
+                  },
+                  {
+                    "name": "H2O",
+                    "nodeid": 930024,
+                    "children": []
+                  },
+                  {
+                    "name": "NLTK",
+                    "nodeid": 930050,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Data Wrangling and Analytics",
+                "nodeid": 93003,
+                "children": [
+                  {
+                    "name": "Pandas",
+                    "nodeid": 930030,
+                    "children": []
+                  },
+                  {
+                    "name": "NumPy",
+                    "nodeid": 930031,
+                    "children": []
+                  },
+                  {
+                    "name": "SciPy",
+                    "nodeid": 930032,
+                    "children": []
+                  },
+                  {
+                    "name": "Matplotlib",
+                    "nodeid": 930033,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Computer Vision Software",
+                "nodeid": 93004,
+                "children": [
+                  {
+                    "name": "OpenCV",
+                    "nodeid": 930040,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "NLP Softwre",
+                "nodeid": 93005,
+                "children": [
+                  {
+                    "name": "NLTK",
+                    "nodeid": 930050,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Cloud AI/ML Platforms",
+                "nodeid": 93006,
+                "children": [
+                  {
+                    "name": "SageMaker",
+                    "nodeid": 930207,
+                    "children": []
+                  },
+                  {
+                    "name": "Azure Machine Learning",
+                    "nodeid": 930231,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Programming Languages",
+            "nodeid": 9301,
+            "children": [
+              {
+                "name": "Python and Packages",
+                "nodeid": 93012,
+                "children": [
+                  {
+                    "name": "NumPy",
+                    "nodeid": 930031,
+                    "children": []
+                  },
+                  {
+                    "name": "Pandas",
+                    "nodeid": 930030,
+                    "children": []
+                  },
+                  {
+                    "name": "SciPy",
+                    "nodeid": 930032,
+                    "children": []
+                  },
+                  {
+                    "name": "Python",
+                    "nodeid": 930120,
+                    "children": []
+                  },
+                  {
+                    "name": "Dask",
+                    "nodeid": 930119,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Java",
+                "nodeid": 930101,
+                "children": []
+              },
+              {
+                "name": "C++",
+                "nodeid": 930102,
+                "children": []
+              },
+              {
+                "name": "C",
+                "nodeid": 930103,
+                "children": []
+              },
+              {
+                "name": "C#",
+                "nodeid": 930104,
+                "children": []
+              },
+              {
+                "name": "R",
+                "nodeid": 930114,
+                "children": []
+              },
+              {
+                "name": "Go",
+                "nodeid": 930105,
+                "children": []
+              },
+              {
+                "name": "Scala",
+                "nodeid": 930106,
+                "children": []
+              },
+              {
+                "name": "Perl",
+                "nodeid": 930107,
+                "children": []
+              },
+              {
+                "name": "Ruby",
+                "nodeid": 930108,
+                "children": []
+              },
+              {
+                "name": "Matlab",
+                "nodeid": 930115,
+                "children": []
+              },
+              {
+                "name": "Kotlin",
+                "nodeid": 930109,
+                "children": []
+              },
+              {
+                "name": "Rust",
+                "nodeid": 930110,
+                "children": []
+              },
+              {
+                "name": "Swift",
+                "nodeid": 930111,
+                "children": []
+              },
+              {
+                "name": "Objective C",
+                "nodeid": 930112,
+                "children": []
+              },
+              {
+                "name": "Groovy",
+                "nodeid": 930113,
+                "children": []
+              },
+              {
+                "name": "Data-Centric Languages",
+                "nodeid": 93030,
+                "children": [
+                  {
+                    "name": "SQL",
+                    "nodeid": 930300,
+                    "children": []
+                  },
+                  {
+                    "name": "GraphQL",
+                    "nodeid": 930301,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Web Markup and Scripting",
+                "nodeid": 93040,
+                "children": [
+                  {
+                    "name": "JavaScript",
+                    "nodeid": 930400,
+                    "children": []
+                  },
+                  {
+                    "name": "TypeScript",
+                    "nodeid": 930401,
+                    "children": []
+                  },
+                  {
+                    "name": "CSS",
+                    "nodeid": 930402,
+                    "children": []
+                  },
+                  {
+                    "name": "HTML",
+                    "nodeid": 930403,
+                    "children": []
+                  },
+                  {
+                    "name": "PHP",
+                    "nodeid": 930404,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Compilers and Toolchains",
+                "nodeid": 93013,
+                "children": [
+                  {
+                    "name": "LLVM",
+                    "nodeid": 930130,
+                    "children": []
+                  },
+                  {
+                    "name": "CUDA",
+                    "nodeid": 930131,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Cloud Computing",
+            "nodeid": 9302,
+            "children": [
+              {
+                "name": "Amazon Web Services",
+                "nodeid": 93020,
+                "children": [
+                  {
+                    "name": "S3",
+                    "nodeid": 930210,
+                    "children": []
+                  },
+                  {
+                    "name": "EC2",
+                    "nodeid": 930201,
+                    "children": []
+                  },
+                  {
+                    "name": "Lambda",
+                    "nodeid": 930202,
+                    "children": []
+                  },
+                  {
+                    "name": "Redshift",
+                    "nodeid": 930203,
+                    "children": []
+                  },
+                  {
+                    "name": "EMR",
+                    "nodeid": 930204,
+                    "children": []
+                  },
+                  {
+                    "name": "CloudFormation",
+                    "nodeid": 930205,
+                    "children": []
+                  },
+                  {
+                    "name": "EKS",
+                    "nodeid": 930206,
+                    "children": []
+                  },
+                  {
+                    "name": "SageMaker",
+                    "nodeid": 930207,
+                    "children": []
+                  },
+                  {
+                    "name": "DynamoDB",
+                    "nodeid": 930208,
+                    "children": []
+                  },
+                  {
+                    "name": "Kinesis",
+                    "nodeid": 930209,
+                    "children": []
+                  },
+                  {
+                    "name": "AWS",
+                    "nodeid": 930200,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Microsoft Azure",
+                "nodeid": 93023,
+                "children": [
+                  {
+                    "name": "Azure Data Lake",
+                    "nodeid": 930233,
+                    "children": []
+                  },
+                  {
+                    "name": "Cosmos DB",
+                    "nodeid": 930321,
+                    "children": []
+                  },
+                  {
+                    "name": "Azure Machine Learning",
+                    "nodeid": 930231,
+                    "children": []
+                  },
+                  {
+                    "name": "Azure SQL",
+                    "nodeid": 930232,
+                    "children": []
+                  },
+                  {
+                    "name": "Azure",
+                    "nodeid": 930230,
+                    "children": []
+                  },
+                  {
+                    "name": "Azure DevOps",
+                    "nodeid": 930234,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Google Cloud Platform",
+                "nodeid": 93022,
+                "children": [
+                  {
+                    "name": "Google Analytics",
+                    "nodeid": 930222,
+                    "children": []
+                  },
+                  {
+                    "name": "Looker",
+                    "nodeid": 930221,
+                    "children": []
+                  },
+                  {
+                    "name": "GCP",
+                    "nodeid": 930220,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Snowflake",
+                "nodeid": 930355,
+                "children": []
+              },
+              {
+                "name": "Salesforce",
+                "nodeid": 93025,
+                "children": []
+              },
+              {
+                "name": "Informatica",
+                "nodeid": 93027,
+                "children": []
+              },
+              {
+                "name": "OpenStack",
+                "nodeid": 93028,
+                "children": []
+              },
+              {
+                "name": "Teradata",
+                "nodeid": 93024,
+                "children": []
+              },
+              {
+                "name": "Splunk",
+                "nodeid": 93026,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Databases and Data Warehouses",
+            "nodeid": 9303,
+            "children": [
+              {
+                "name": "Redshift",
+                "nodeid": 930203,
+                "children": []
+              },
+              {
+                "name": "Snowflake",
+                "nodeid": 930355,
+                "children": []
+              },
+              {
+                "name": "BigQuery",
+                "nodeid": 930356,
+                "children": []
+              },
+              {
+                "name": "Azure Data Lake",
+                "nodeid": 930233,
+                "children": []
+              },
+              {
+                "name": "Azure SQL",
+                "nodeid": 930232,
+                "children": []
+              },
+              {
+                "name": "Data-Centric Languages",
+                "nodeid": 93030,
+                "children": [
+                  {
+                    "name": "SQL",
+                    "nodeid": 930300,
+                    "children": []
+                  },
+                  {
+                    "name": "GraphQL",
+                    "nodeid": 930301,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Relational Database Systems",
+                "nodeid": 93031,
+                "children": [
+                  {
+                    "name": "MySQL",
+                    "nodeid": 930310,
+                    "children": []
+                  },
+                  {
+                    "name": "PostgreSQL",
+                    "nodeid": 930311,
+                    "children": []
+                  },
+                  {
+                    "name": "Microsoft SQL Server",
+                    "nodeid": 930312,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "NoSQL Management Systems",
+                "nodeid": 93032,
+                "children": [
+                  {
+                    "name": "Cassandra",
+                    "nodeid": 930320,
+                    "children": []
+                  },
+                  {
+                    "name": "Cosmos DB",
+                    "nodeid": 930321,
+                    "children": []
+                  },
+                  {
+                    "name": "HBase",
+                    "nodeid": 930322,
+                    "children": []
+                  },
+                  {
+                    "name": "MongoDB",
+                    "nodeid": 930323,
+                    "children": []
+                  },
+                  {
+                    "name": "DynamoDB",
+                    "nodeid": 930208,
+                    "children": []
+                  },
+                  {
+                    "name": "Redis",
+                    "nodeid": 930324,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Database Query Engines",
+                "nodeid": 93033,
+                "children": [
+                  {
+                    "name": "Presto",
+                    "nodeid": 930330,
+                    "children": []
+                  },
+                  {
+                    "name": "Elasticsearch",
+                    "nodeid": 930331,
+                    "children": []
+                  },
+                  {
+                    "name": "Airflow",
+                    "nodeid": 930332,
+                    "children": []
+                  },
+                  {
+                    "name": "Hadoop",
+                    "nodeid": 930333,
+                    "children": []
+                  },
+                  {
+                    "name": "Hibernate",
+                    "nodeid": 930334,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Time Series Platforms",
+                "nodeid": 93034,
+                "children": [
+                  {
+                    "name": "InfluxDB",
+                    "nodeid": 930340,
+                    "children": []
+                  },
+                  {
+                    "name": "Kafka",
+                    "nodeid": 930341,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Data Warehouses and Data Lakes",
+                "nodeid": 93035,
+                "children": [
+                  {
+                    "name": "DB2",
+                    "nodeid": 930350,
+                    "children": []
+                  },
+                  {
+                    "name": "Delta Lake",
+                    "nodeid": 930351,
+                    "children": []
+                  },
+                  {
+                    "name": "Oracle",
+                    "nodeid": 930352,
+                    "children": []
+                  },
+                  {
+                    "name": "Microsoft SQL Server",
+                    "nodeid": 930312,
+                    "children": []
+                  },
+                  {
+                    "name": "Hive",
+                    "nodeid": 930353,
+                    "children": []
+                  },
+                  {
+                    "name": "SAP",
+                    "nodeid": 930354,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Web Development and Data Visualization",
+            "nodeid": 9304,
+            "children": [
+              {
+                "name": "Web Markup and Scripting",
+                "nodeid": 93040,
+                "children": [
+                  {
+                    "name": "JavaScript",
+                    "nodeid": 930400,
+                    "children": []
+                  },
+                  {
+                    "name": "TypeScript",
+                    "nodeid": 930401,
+                    "children": []
+                  },
+                  {
+                    "name": "CSS",
+                    "nodeid": 930402,
+                    "children": []
+                  },
+                  {
+                    "name": "HTML",
+                    "nodeid": 930403,
+                    "children": []
+                  },
+                  {
+                    "name": "PHP",
+                    "nodeid": 930404,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Javascript Libraries",
+                "nodeid": 93041,
+                "children": [
+                  {
+                    "name": "jQuery",
+                    "nodeid": 930411,
+                    "children": []
+                  },
+                  {
+                    "name": "React",
+                    "nodeid": 930410,
+                    "children": []
+                  },
+                  {
+                    "name": "Redux",
+                    "nodeid": 930412,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Node.js",
+                "nodeid": 93042,
+                "children": []
+              },
+              {
+                "name": "Data Visualisation Engines",
+                "nodeid": 93044,
+                "children": [
+                  {
+                    "name": "Tableau",
+                    "nodeid": 930440,
+                    "children": []
+                  },
+                  {
+                    "name": "Power BI",
+                    "nodeid": 930441,
+                    "children": []
+                  },
+                  {
+                    "name": "Grafana",
+                    "nodeid": 930442,
+                    "children": []
+                  },
+                  {
+                    "name": "Kibana",
+                    "nodeid": 930443,
+                    "children": []
+                  },
+                  {
+                    "name": "ELK",
+                    "nodeid": 930444,
+                    "children": []
+                  },
+                  {
+                    "name": "ArcGIS",
+                    "nodeid": 930445,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Web Frameworks",
+                "nodeid": 93045,
+                "children": [
+                  {
+                    "name": "Vue.js",
+                    "nodeid": 930450,
+                    "children": []
+                  },
+                  {
+                    "name": "Django",
+                    "nodeid": 930451,
+                    "children": []
+                  },
+                  {
+                    "name": "Flask",
+                    "nodeid": 930452,
+                    "children": []
+                  },
+                  {
+                    "name": "Express",
+                    "nodeid": 930453,
+                    "children": []
+                  },
+                  {
+                    "name": "AngularJS",
+                    "nodeid": 930454,
+                    "children": []
+                  },
+                  {
+                    "name": "Laravel",
+                    "nodeid": 930455,
+                    "children": []
+                  },
+                  {
+                    "name": "Ruby on Rails",
+                    "nodeid": 930456,
+                    "children": []
+                  },
+                  {
+                    "name": "ASP.NET",
+                    "nodeid": 930457,
+                    "children": []
+                  },
+                  {
+                    "name": "React Native",
+                    "nodeid": 930458,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Graphics Software",
+                "nodeid": 93046,
+                "children": [
+                  {
+                    "name": "Sketch",
+                    "nodeid": 930460,
+                    "children": []
+                  },
+                  {
+                    "name": "OpenGL",
+                    "nodeid": 930461,
+                    "children": []
+                  },
+                  {
+                    "name": "Photoshop",
+                    "nodeid": 9300462,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Operating Systems",
+            "nodeid": 9305,
+            "children": [
+              {
+                "name": "Windows",
+                "nodeid": 93051,
+                "children": []
+              },
+              {
+                "name": "Unix",
+                "nodeid": 93052,
+                "children": []
+              },
+              {
+                "name": "iOS",
+                "nodeid": 93054,
+                "children": []
+              },
+              {
+                "name": "Android",
+                "nodeid": 93055,
+                "children": []
+              },
+              {
+                "name": "MacOS",
+                "nodeid": 93053,
+                "children": []
+              },
+              {
+                "name": "Linux Distributions",
+                "nodeid": 93050,
+                "children": [
+                  {
+                    "name": "Linux",
+                    "nodeid": 930500,
+                    "children": []
+                  },
+                  {
+                    "name": "Ubuntu",
+                    "nodeid": 930501,
+                    "children": []
+                  },
+                  {
+                    "name": "Debian",
+                    "nodeid": 930502,
+                    "children": []
+                  },
+                  {
+                    "name": "CentOS",
+                    "nodeid": 930503,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Command-Line Languages",
+                "nodeid": 93056,
+                "children": [
+                  {
+                    "name": "Bash",
+                    "nodeid": 930560,
+                    "children": []
+                  },
+                  {
+                    "name": "PowerShell",
+                    "nodeid": 930561,
+                    "children": []
+                  },
+                  {
+                    "name": "Shell",
+                    "nodeid": 930562,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "ROS",
+                "nodeid": 93058,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Virtualization and Containerization",
+            "nodeid": 9306,
+            "children": [
+              {
+                "name": "Kubernetes",
+                "nodeid": 93060,
+                "children": []
+              },
+              {
+                "name": "Docker",
+                "nodeid": 93061,
+                "children": []
+              },
+              {
+                "name": "ECS",
+                "nodeid": 93062,
+                "children": []
+              },
+              {
+                "name": "EKS",
+                "nodeid": 930206,
+                "children": []
+              },
+              {
+                "name": "VMWare",
+                "nodeid": 93064,
+                "children": []
+              },
+              {
+                "name": "OpenShift",
+                "nodeid": 93065,
+                "children": []
+              },
+              {
+                "name": "Swarm",
+                "nodeid": 93066,
+                "children": []
+              },
+              {
+                "name": "Singularity",
+                "nodeid": 93067,
+                "children": []
+              },
+              {
+                "name": "Kubeflow",
+                "nodeid": 930022,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Collaboration and Automation",
+            "nodeid": 9307,
+            "children": [
+              {
+                "name": "Version Control Tools",
+                "nodeid": 93070,
+                "children": [
+                  {
+                    "name": "Git",
+                    "nodeid": 930700,
+                    "children": []
+                  },
+                  {
+                    "name": "GitHub",
+                    "nodeid": 930701,
+                    "children": []
+                  },
+                  {
+                    "name": "GitLab",
+                    "nodeid": 930702,
+                    "children": []
+                  },
+                  {
+                    "name": "Bitbucket",
+                    "nodeid": 930703,
+                    "children": []
+                  },
+                  {
+                    "name": "Subversion",
+                    "nodeid": 930704,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Colaboration and Product Management",
+                "nodeid": 93071,
+                "children": [
+                  {
+                    "name": "Jira",
+                    "nodeid": 930710,
+                    "children": []
+                  },
+                  {
+                    "name": "Confluence",
+                    "nodeid": 930713,
+                    "children": []
+                  },
+                  {
+                    "name": "SharePoint",
+                    "nodeid": 930712,
+                    "children": []
+                  },
+                  {
+                    "name": "Figma",
+                    "nodeid": 930711,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Automation Tools",
+                "nodeid": 93072,
+                "children": [
+                  {
+                    "name": "Jenkins",
+                    "nodeid": 930720,
+                    "children": []
+                  },
+                  {
+                    "name": "Blue Prism",
+                    "nodeid": 930721,
+                    "children": []
+                  },
+                  {
+                    "name": "Maven",
+                    "nodeid": 930722,
+                    "children": []
+                  },
+                  {
+                    "name": "UiPath",
+                    "nodeid": 930714,
+                    "children": []
+                  },
+                  {
+                    "name": "Selenium",
+                    "nodeid": 930724,
+                    "children": []
+                  },
+                  {
+                    "name": "Pytest",
+                    "nodeid": 930725,
+                    "children": []
+                  },
+                  {
+                    "name": "Cypress",
+                    "nodeid": 930726,
+                    "children": []
+                  },
+                  {
+                    "name": "Protractor",
+                    "nodeid": 930727,
+                    "children": []
+                  },
+                  {
+                    "name": "Slurm",
+                    "nodeid": 930723,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Integrated DevOps Platforms",
+                "nodeid": 93073,
+                "children": [
+                  {
+                    "name": "Azure DevOps",
+                    "nodeid": 930234,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Monitoring and Alerting Tools",
+                "nodeid": 9307499,
+                "children": [
+                  {
+                    "name": "Prometheus",
+                    "nodeid": 930740,
+                    "children": []
+                  },
+                  {
+                    "name": "Datadog",
+                    "nodeid": 930741,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Systems Management Software",
+                "nodeid": 93075,
+                "children": [
+                  {
+                    "name": "Terraform",
+                    "nodeid": 930750,
+                    "children": []
+                  },
+                  {
+                    "name": "Ansible",
+                    "nodeid": 930751,
+                    "children": []
+                  },
+                  {
+                    "name": "Chef",
+                    "nodeid": 930752,
+                    "children": []
+                  },
+                  {
+                    "name": "Puppet",
+                    "nodeid": 930753,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Software Development Tools",
+            "nodeid": 9309,
+            "children": [
+              {
+                "name": ".NET",
+                "nodeid": 93090,
+                "children": []
+              },
+              {
+                "name": "Databricks",
+                "nodeid": 93091,
+                "children": []
+              },
+              {
+                "name": "Spring",
+                "nodeid": 93092,
+                "children": []
+              },
+              {
+                "name": "Unreal",
+                "nodeid": 93093,
+                "children": []
+              },
+              {
+                "name": "OpenCL",
+                "nodeid": 93094,
+                "children": []
+              },
+              {
+                "name": "Unity",
+                "nodeid": 93095,
+                "children": []
+              },
+              {
+                "name": "Jupyter",
+                "nodeid": 93096,
+                "children": []
+              },
+              {
+                "name": "Visual Studio",
+                "nodeid": 93097,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Computer Network Tools",
+            "nodeid": 9308,
+            "children": [
+              {
+                "name": "RESTful",
+                "nodeid": 93080,
+                "children": []
+              },
+              {
+                "name": "XML",
+                "nodeid": 93081,
+                "children": []
+              },
+              {
+                "name": "RabbitMQ",
+                "nodeid": 93083,
+                "children": []
+              },
+              {
+                "name": "DNS",
+                "nodeid": 93084,
+                "children": []
+              },
+              {
+                "name": "gRPC",
+                "nodeid": 93082,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Office Software",
+            "nodeid": 9310,
+            "children": [
+              {
+                "name": "Excel",
+                "nodeid": 93100,
+                "children": []
+              },
+              {
+                "name": "Microsoft Office",
+                "nodeid": 93101,
+                "children": []
+              },
+              {
+                "name": "PowerPoint",
+                "nodeid": 93102,
+                "children": []
+              },
+              {
+                "name": "Word",
+                "nodeid": 93103,
+                "children": []
+              },
+              {
+                "name": "Visio",
+                "nodeid": 93104,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Programming Languages",
+        "nodeid": 9301,
+        "children": [
+          {
+            "name": "Python and Packages",
+            "nodeid": 93012,
+            "children": [
+              {
+                "name": "NumPy",
+                "nodeid": 930031,
+                "children": []
+              },
+              {
+                "name": "Pandas",
+                "nodeid": 930030,
+                "children": []
+              },
+              {
+                "name": "SciPy",
+                "nodeid": 930032,
+                "children": []
+              },
+              {
+                "name": "Python",
+                "nodeid": 930120,
+                "children": []
+              },
+              {
+                "name": "Dask",
+                "nodeid": 930119,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Java",
+            "nodeid": 930101,
+            "children": []
+          },
+          {
+            "name": "C++",
+            "nodeid": 930102,
+            "children": []
+          },
+          {
+            "name": "C",
+            "nodeid": 930103,
+            "children": []
+          },
+          {
+            "name": "C#",
+            "nodeid": 930104,
+            "children": []
+          },
+          {
+            "name": "R",
+            "nodeid": 930114,
+            "children": []
+          },
+          {
+            "name": "Go",
+            "nodeid": 930105,
+            "children": []
+          },
+          {
+            "name": "Scala",
+            "nodeid": 930106,
+            "children": []
+          },
+          {
+            "name": "Perl",
+            "nodeid": 930107,
+            "children": []
+          },
+          {
+            "name": "Ruby",
+            "nodeid": 930108,
+            "children": []
+          },
+          {
+            "name": "Matlab",
+            "nodeid": 930115,
+            "children": []
+          },
+          {
+            "name": "Kotlin",
+            "nodeid": 930109,
+            "children": []
+          },
+          {
+            "name": "Rust",
+            "nodeid": 930110,
+            "children": []
+          },
+          {
+            "name": "Swift",
+            "nodeid": 930111,
+            "children": []
+          },
+          {
+            "name": "Objective C",
+            "nodeid": 930112,
+            "children": []
+          },
+          {
+            "name": "Groovy",
+            "nodeid": 930113,
+            "children": []
+          },
+          {
+            "name": "Data-Centric Languages",
+            "nodeid": 93030,
+            "children": [
+              {
+                "name": "SQL",
+                "nodeid": 930300,
+                "children": []
+              },
+              {
+                "name": "GraphQL",
+                "nodeid": 930301,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Web Markup and Scripting",
+            "nodeid": 93040,
+            "children": [
+              {
+                "name": "JavaScript",
+                "nodeid": 930400,
+                "children": []
+              },
+              {
+                "name": "TypeScript",
+                "nodeid": 930401,
+                "children": []
+              },
+              {
+                "name": "CSS",
+                "nodeid": 930402,
+                "children": []
+              },
+              {
+                "name": "HTML",
+                "nodeid": 930403,
+                "children": []
+              },
+              {
+                "name": "PHP",
+                "nodeid": 930404,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Compilers and Toolchains",
+            "nodeid": 93013,
+            "children": [
+              {
+                "name": "LLVM",
+                "nodeid": 930130,
+                "children": []
+              },
+              {
+                "name": "CUDA",
+                "nodeid": 930131,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cloud Computing",
+        "nodeid": 9302,
+        "children": [
+          {
+            "name": "Amazon Web Services",
+            "nodeid": 93020,
+            "children": [
+              {
+                "name": "S3",
+                "nodeid": 930210,
+                "children": []
+              },
+              {
+                "name": "EC2",
+                "nodeid": 930201,
+                "children": []
+              },
+              {
+                "name": "Lambda",
+                "nodeid": 930202,
+                "children": []
+              },
+              {
+                "name": "Redshift",
+                "nodeid": 930203,
+                "children": []
+              },
+              {
+                "name": "EMR",
+                "nodeid": 930204,
+                "children": []
+              },
+              {
+                "name": "CloudFormation",
+                "nodeid": 930205,
+                "children": []
+              },
+              {
+                "name": "EKS",
+                "nodeid": 930206,
+                "children": []
+              },
+              {
+                "name": "SageMaker",
+                "nodeid": 930207,
+                "children": []
+              },
+              {
+                "name": "DynamoDB",
+                "nodeid": 930208,
+                "children": []
+              },
+              {
+                "name": "Kinesis",
+                "nodeid": 930209,
+                "children": []
+              },
+              {
+                "name": "AWS",
+                "nodeid": 930200,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Microsoft Azure",
+            "nodeid": 93023,
+            "children": [
+              {
+                "name": "Azure Data Lake",
+                "nodeid": 930233,
+                "children": []
+              },
+              {
+                "name": "Cosmos DB",
+                "nodeid": 930321,
+                "children": []
+              },
+              {
+                "name": "Azure Machine Learning",
+                "nodeid": 930231,
+                "children": []
+              },
+              {
+                "name": "Azure SQL",
+                "nodeid": 930232,
+                "children": []
+              },
+              {
+                "name": "Azure",
+                "nodeid": 930230,
+                "children": []
+              },
+              {
+                "name": "Azure DevOps",
+                "nodeid": 930234,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Google Cloud Platform",
+            "nodeid": 93022,
+            "children": [
+              {
+                "name": "Google Analytics",
+                "nodeid": 930222,
+                "children": []
+              },
+              {
+                "name": "Looker",
+                "nodeid": 930221,
+                "children": []
+              },
+              {
+                "name": "GCP",
+                "nodeid": 930220,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Snowflake",
+            "nodeid": 930355,
+            "children": []
+          },
+          {
+            "name": "Salesforce",
+            "nodeid": 93025,
+            "children": []
+          },
+          {
+            "name": "Informatica",
+            "nodeid": 93027,
+            "children": []
+          },
+          {
+            "name": "OpenStack",
+            "nodeid": 93028,
+            "children": []
+          },
+          {
+            "name": "Teradata",
+            "nodeid": 93024,
+            "children": []
+          },
+          {
+            "name": "Splunk",
+            "nodeid": 93026,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Databases and Data Warehouses",
+        "nodeid": 9303,
+        "children": [
+          {
+            "name": "Redshift",
+            "nodeid": 930203,
+            "children": []
+          },
+          {
+            "name": "Snowflake",
+            "nodeid": 930355,
+            "children": []
+          },
+          {
+            "name": "BigQuery",
+            "nodeid": 930356,
+            "children": []
+          },
+          {
+            "name": "Azure Data Lake",
+            "nodeid": 930233,
+            "children": []
+          },
+          {
+            "name": "Azure SQL",
+            "nodeid": 930232,
+            "children": []
+          },
+          {
+            "name": "Data-Centric Languages",
+            "nodeid": 93030,
+            "children": [
+              {
+                "name": "SQL",
+                "nodeid": 930300,
+                "children": []
+              },
+              {
+                "name": "GraphQL",
+                "nodeid": 930301,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Relational Database Systems",
+            "nodeid": 93031,
+            "children": [
+              {
+                "name": "MySQL",
+                "nodeid": 930310,
+                "children": []
+              },
+              {
+                "name": "PostgreSQL",
+                "nodeid": 930311,
+                "children": []
+              },
+              {
+                "name": "Microsoft SQL Server",
+                "nodeid": 930312,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "NoSQL Management Systems",
+            "nodeid": 93032,
+            "children": [
+              {
+                "name": "Cassandra",
+                "nodeid": 930320,
+                "children": []
+              },
+              {
+                "name": "Cosmos DB",
+                "nodeid": 930321,
+                "children": []
+              },
+              {
+                "name": "HBase",
+                "nodeid": 930322,
+                "children": []
+              },
+              {
+                "name": "MongoDB",
+                "nodeid": 930323,
+                "children": []
+              },
+              {
+                "name": "DynamoDB",
+                "nodeid": 930208,
+                "children": []
+              },
+              {
+                "name": "Redis",
+                "nodeid": 930324,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Database Query Engines",
+            "nodeid": 93033,
+            "children": [
+              {
+                "name": "Presto",
+                "nodeid": 930330,
+                "children": []
+              },
+              {
+                "name": "Elasticsearch",
+                "nodeid": 930331,
+                "children": []
+              },
+              {
+                "name": "Airflow",
+                "nodeid": 930332,
+                "children": []
+              },
+              {
+                "name": "Hadoop",
+                "nodeid": 930333,
+                "children": []
+              },
+              {
+                "name": "Hibernate",
+                "nodeid": 930334,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Time Series Platforms",
+            "nodeid": 93034,
+            "children": [
+              {
+                "name": "InfluxDB",
+                "nodeid": 930340,
+                "children": []
+              },
+              {
+                "name": "Kafka",
+                "nodeid": 930341,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Data Warehouses and Data Lakes",
+            "nodeid": 93035,
+            "children": [
+              {
+                "name": "DB2",
+                "nodeid": 930350,
+                "children": []
+              },
+              {
+                "name": "Delta Lake",
+                "nodeid": 930351,
+                "children": []
+              },
+              {
+                "name": "Oracle",
+                "nodeid": 930352,
+                "children": []
+              },
+              {
+                "name": "Microsoft SQL Server",
+                "nodeid": 930312,
+                "children": []
+              },
+              {
+                "name": "Hive",
+                "nodeid": 930353,
+                "children": []
+              },
+              {
+                "name": "SAP",
+                "nodeid": 930354,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Web Development and Data Visualization",
+        "nodeid": 9304,
+        "children": [
+          {
+            "name": "Web Markup and Scripting",
+            "nodeid": 93040,
+            "children": [
+              {
+                "name": "JavaScript",
+                "nodeid": 930400,
+                "children": []
+              },
+              {
+                "name": "TypeScript",
+                "nodeid": 930401,
+                "children": []
+              },
+              {
+                "name": "CSS",
+                "nodeid": 930402,
+                "children": []
+              },
+              {
+                "name": "HTML",
+                "nodeid": 930403,
+                "children": []
+              },
+              {
+                "name": "PHP",
+                "nodeid": 930404,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Javascript Libraries",
+            "nodeid": 93041,
+            "children": [
+              {
+                "name": "jQuery",
+                "nodeid": 930411,
+                "children": []
+              },
+              {
+                "name": "React",
+                "nodeid": 930410,
+                "children": []
+              },
+              {
+                "name": "Redux",
+                "nodeid": 930412,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Node.js",
+            "nodeid": 93042,
+            "children": []
+          },
+          {
+            "name": "Data Visualisation Engines",
+            "nodeid": 93044,
+            "children": [
+              {
+                "name": "Tableau",
+                "nodeid": 930440,
+                "children": []
+              },
+              {
+                "name": "Power BI",
+                "nodeid": 930441,
+                "children": []
+              },
+              {
+                "name": "Grafana",
+                "nodeid": 930442,
+                "children": []
+              },
+              {
+                "name": "Kibana",
+                "nodeid": 930443,
+                "children": []
+              },
+              {
+                "name": "ELK",
+                "nodeid": 930444,
+                "children": []
+              },
+              {
+                "name": "ArcGIS",
+                "nodeid": 930445,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Web Frameworks",
+            "nodeid": 93045,
+            "children": [
+              {
+                "name": "Vue.js",
+                "nodeid": 930450,
+                "children": []
+              },
+              {
+                "name": "Django",
+                "nodeid": 930451,
+                "children": []
+              },
+              {
+                "name": "Flask",
+                "nodeid": 930452,
+                "children": []
+              },
+              {
+                "name": "Express",
+                "nodeid": 930453,
+                "children": []
+              },
+              {
+                "name": "AngularJS",
+                "nodeid": 930454,
+                "children": []
+              },
+              {
+                "name": "Laravel",
+                "nodeid": 930455,
+                "children": []
+              },
+              {
+                "name": "Ruby on Rails",
+                "nodeid": 930456,
+                "children": []
+              },
+              {
+                "name": "ASP.NET",
+                "nodeid": 930457,
+                "children": []
+              },
+              {
+                "name": "React Native",
+                "nodeid": 930458,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Graphics Software",
+            "nodeid": 93046,
+            "children": [
+              {
+                "name": "Sketch",
+                "nodeid": 930460,
+                "children": []
+              },
+              {
+                "name": "OpenGL",
+                "nodeid": 930461,
+                "children": []
+              },
+              {
+                "name": "Photoshop",
+                "nodeid": 9300462,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Operating Systems",
+        "nodeid": 9305,
+        "children": [
+          {
+            "name": "Windows",
+            "nodeid": 93051,
+            "children": []
+          },
+          {
+            "name": "Unix",
+            "nodeid": 93052,
+            "children": []
+          },
+          {
+            "name": "iOS",
+            "nodeid": 93054,
+            "children": []
+          },
+          {
+            "name": "Android",
+            "nodeid": 93055,
+            "children": []
+          },
+          {
+            "name": "MacOS",
+            "nodeid": 93053,
+            "children": []
+          },
+          {
+            "name": "Linux Distributions",
+            "nodeid": 93050,
+            "children": [
+              {
+                "name": "Linux",
+                "nodeid": 930500,
+                "children": []
+              },
+              {
+                "name": "Ubuntu",
+                "nodeid": 930501,
+                "children": []
+              },
+              {
+                "name": "Debian",
+                "nodeid": 930502,
+                "children": []
+              },
+              {
+                "name": "CentOS",
+                "nodeid": 930503,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Command-Line Languages",
+            "nodeid": 93056,
+            "children": [
+              {
+                "name": "Bash",
+                "nodeid": 930560,
+                "children": []
+              },
+              {
+                "name": "PowerShell",
+                "nodeid": 930561,
+                "children": []
+              },
+              {
+                "name": "Shell",
+                "nodeid": 930562,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "ROS",
+            "nodeid": 93058,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Virtualization and Containerization",
+        "nodeid": 9306,
+        "children": [
+          {
+            "name": "Kubernetes",
+            "nodeid": 93060,
+            "children": []
+          },
+          {
+            "name": "Docker",
+            "nodeid": 93061,
+            "children": []
+          },
+          {
+            "name": "ECS",
+            "nodeid": 93062,
+            "children": []
+          },
+          {
+            "name": "EKS",
+            "nodeid": 930206,
+            "children": []
+          },
+          {
+            "name": "VMWare",
+            "nodeid": 93064,
+            "children": []
+          },
+          {
+            "name": "OpenShift",
+            "nodeid": 93065,
+            "children": []
+          },
+          {
+            "name": "Swarm",
+            "nodeid": 93066,
+            "children": []
+          },
+          {
+            "name": "Singularity",
+            "nodeid": 93067,
+            "children": []
+          },
+          {
+            "name": "Kubeflow",
+            "nodeid": 930022,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Collaboration and Automation",
+        "nodeid": 9307,
+        "children": [
+          {
+            "name": "Version Control Tools",
+            "nodeid": 93070,
+            "children": [
+              {
+                "name": "Git",
+                "nodeid": 930700,
+                "children": []
+              },
+              {
+                "name": "GitHub",
+                "nodeid": 930701,
+                "children": []
+              },
+              {
+                "name": "GitLab",
+                "nodeid": 930702,
+                "children": []
+              },
+              {
+                "name": "Bitbucket",
+                "nodeid": 930703,
+                "children": []
+              },
+              {
+                "name": "Subversion",
+                "nodeid": 930704,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Colaboration and Product Management",
+            "nodeid": 93071,
+            "children": [
+              {
+                "name": "Jira",
+                "nodeid": 930710,
+                "children": []
+              },
+              {
+                "name": "Confluence",
+                "nodeid": 930713,
+                "children": []
+              },
+              {
+                "name": "SharePoint",
+                "nodeid": 930712,
+                "children": []
+              },
+              {
+                "name": "Figma",
+                "nodeid": 930711,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Automation Tools",
+            "nodeid": 93072,
+            "children": [
+              {
+                "name": "Jenkins",
+                "nodeid": 930720,
+                "children": []
+              },
+              {
+                "name": "Blue Prism",
+                "nodeid": 930721,
+                "children": []
+              },
+              {
+                "name": "Maven",
+                "nodeid": 930722,
+                "children": []
+              },
+              {
+                "name": "UiPath",
+                "nodeid": 930714,
+                "children": []
+              },
+              {
+                "name": "Selenium",
+                "nodeid": 930724,
+                "children": []
+              },
+              {
+                "name": "Pytest",
+                "nodeid": 930725,
+                "children": []
+              },
+              {
+                "name": "Cypress",
+                "nodeid": 930726,
+                "children": []
+              },
+              {
+                "name": "Protractor",
+                "nodeid": 930727,
+                "children": []
+              },
+              {
+                "name": "Slurm",
+                "nodeid": 930723,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Integrated DevOps Platforms",
+            "nodeid": 93073,
+            "children": [
+              {
+                "name": "Azure DevOps",
+                "nodeid": 930234,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Monitoring and Alerting Tools",
+            "nodeid": 9307499,
+            "children": [
+              {
+                "name": "Prometheus",
+                "nodeid": 930740,
+                "children": []
+              },
+              {
+                "name": "Datadog",
+                "nodeid": 930741,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Systems Management Software",
+            "nodeid": 93075,
+            "children": [
+              {
+                "name": "Terraform",
+                "nodeid": 930750,
+                "children": []
+              },
+              {
+                "name": "Ansible",
+                "nodeid": 930751,
+                "children": []
+              },
+              {
+                "name": "Chef",
+                "nodeid": 930752,
+                "children": []
+              },
+              {
+                "name": "Puppet",
+                "nodeid": 930753,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Software Development Tools",
+        "nodeid": 9309,
+        "children": [
+          {
+            "name": ".NET",
+            "nodeid": 93090,
+            "children": []
+          },
+          {
+            "name": "Databricks",
+            "nodeid": 93091,
+            "children": []
+          },
+          {
+            "name": "Spring",
+            "nodeid": 93092,
+            "children": []
+          },
+          {
+            "name": "Unreal",
+            "nodeid": 93093,
+            "children": []
+          },
+          {
+            "name": "OpenCL",
+            "nodeid": 93094,
+            "children": []
+          },
+          {
+            "name": "Unity",
+            "nodeid": 93095,
+            "children": []
+          },
+          {
+            "name": "Jupyter",
+            "nodeid": 93096,
+            "children": []
+          },
+          {
+            "name": "Visual Studio",
+            "nodeid": 93097,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Computer Network Tools",
+        "nodeid": 9308,
+        "children": [
+          {
+            "name": "RESTful",
+            "nodeid": 93080,
+            "children": []
+          },
+          {
+            "name": "XML",
+            "nodeid": 93081,
+            "children": []
+          },
+          {
+            "name": "RabbitMQ",
+            "nodeid": 93083,
+            "children": []
+          },
+          {
+            "name": "DNS",
+            "nodeid": 93084,
+            "children": []
+          },
+          {
+            "name": "gRPC",
+            "nodeid": 93082,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Office Software",
+        "nodeid": 9310,
+        "children": [
+          {
+            "name": "Excel",
+            "nodeid": 93100,
+            "children": []
+          },
+          {
+            "name": "Microsoft Office",
+            "nodeid": 93101,
+            "children": []
+          },
+          {
+            "name": "PowerPoint",
+            "nodeid": 93102,
+            "children": []
+          },
+          {
+            "name": "Word",
+            "nodeid": 93103,
+            "children": []
+          },
+          {
+            "name": "Visio",
+            "nodeid": 93104,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Python and Packages",
+        "nodeid": 93012,
+        "children": [
+          {
+            "name": "NumPy",
+            "nodeid": 930031,
+            "children": []
+          },
+          {
+            "name": "Pandas",
+            "nodeid": 930030,
+            "children": []
+          },
+          {
+            "name": "SciPy",
+            "nodeid": 930032,
+            "children": []
+          },
+          {
+            "name": "Python",
+            "nodeid": 930120,
+            "children": []
+          },
+          {
+            "name": "Dask",
+            "nodeid": 930119,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Amazon Web Services",
+        "nodeid": 93020,
+        "children": [
+          {
+            "name": "S3",
+            "nodeid": 930210,
+            "children": []
+          },
+          {
+            "name": "EC2",
+            "nodeid": 930201,
+            "children": []
+          },
+          {
+            "name": "Lambda",
+            "nodeid": 930202,
+            "children": []
+          },
+          {
+            "name": "Redshift",
+            "nodeid": 930203,
+            "children": []
+          },
+          {
+            "name": "EMR",
+            "nodeid": 930204,
+            "children": []
+          },
+          {
+            "name": "CloudFormation",
+            "nodeid": 930205,
+            "children": []
+          },
+          {
+            "name": "EKS",
+            "nodeid": 930206,
+            "children": []
+          },
+          {
+            "name": "SageMaker",
+            "nodeid": 930207,
+            "children": []
+          },
+          {
+            "name": "DynamoDB",
+            "nodeid": 930208,
+            "children": []
+          },
+          {
+            "name": "Kinesis",
+            "nodeid": 930209,
+            "children": []
+          },
+          {
+            "name": "AWS",
+            "nodeid": 930200,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "SQL",
+        "nodeid": 930300,
+        "children": []
+      },
+      {
+        "name": "Java",
+        "nodeid": 930101,
+        "children": []
+      },
+      {
+        "name": "Microsoft Azure",
+        "nodeid": 93023,
+        "children": [
+          {
+            "name": "Azure Data Lake",
+            "nodeid": 930233,
+            "children": []
+          },
+          {
+            "name": "Cosmos DB",
+            "nodeid": 930321,
+            "children": []
+          },
+          {
+            "name": "Azure Machine Learning",
+            "nodeid": 930231,
+            "children": []
+          },
+          {
+            "name": "Azure SQL",
+            "nodeid": 930232,
+            "children": []
+          },
+          {
+            "name": "Azure",
+            "nodeid": 930230,
+            "children": []
+          },
+          {
+            "name": "Azure DevOps",
+            "nodeid": 930234,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "C++",
+        "nodeid": 930102,
+        "children": []
+      },
+      {
+        "name": "JavaScript",
+        "nodeid": 930400,
+        "children": []
+      },
+      {
+        "name": "Linux",
+        "nodeid": 930500,
+        "children": []
+      }
+    ]
+  }
+}

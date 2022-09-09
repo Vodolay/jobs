@@ -1,0 +1,570 @@
+nodeid,name
+100000,ABBYY
+100000,ABBY
+100002,Adobe Analytics
+100003,Adobe Audience Manager
+100004,Adobe CC
+100005,Adobe Launch
+100006,Adobe Target
+100007,Adobe XD
+100007,AdobeXD
+100009,ADONIS
+100010,AFT Fathom
+930332,Airflow
+100012,AKS
+100013,Alation
+100014,Altium Designer
+100015,Amadeus
+100016,Amazon Connect
+100017,Anaplan
+93055,Android
+100019,Android Studio
+100020,Angular
+930454,AngularJS
+930751,Ansible
+100023,Ansys
+100024,Ant
+100025,API Gateway
+100026,APL
+100027,App Engine
+100027,AppEngine
+100029,Apple Health
+930445,ArcGIS
+100031,ARCore
+100032,Argo
+100033,Argo CD
+100033,ArgoCD
+100035,ARKit
+100036,Asana
+930457,ASP.NET
+100038,Assembly
+100039,Atom
+100040,AutoCAD
+100041,Autodesk
+100042,Automation Anywhere
+100043,Avaya
+930200,AWS
+930200,Amazon Web Services
+100046,Axure
+930230,Azure
+100048,Microsoft Cloud
+930233,Azure Data Lake
+930234,Azure DevOps
+930234,Microsoft TFS
+930231,Azure Machine Learning
+930232,Azure SQL
+100054,Babylon.js
+930560,Bash
+100056,Bazel
+930016,Beam
+930356,BigQuery
+930703,Bitbucket
+100060,BlazeMeter
+930721,Blue Prism
+930721,BluePrism
+100063,Botmock
+100064,Botsociety
+100065,BSD
+100066,Buck
+930104,C#
+930104,C#/
+930102,C++
+930103,C
+930004,Caffe
+100072,Calico
+100073,Camtasia
+930320,Cassandra
+930503,CentOS
+100076,Ceph
+930752,Chef
+100078,ClearSCADA
+100079,ClickHouse
+100080,Clojure
+930205,CloudFormation
+100082,CMake
+100083,COBOL
+100084,Cognitive Search
+100085,Collibra
+930713,Confluence
+100087,Cordova
+100088,Core ML
+100088,CoreML
+930321,Cosmos DB
+100091,Couchbase
+100092,Craft
+930402,CSS
+930402,CSS3
+100095,Cucumber
+930131,CUDA
+100097,Cykit
+100098,Cypher
+930726,Cypress
+100100,Cython
+100101,Dart
+100102,Dash
+930119,Dask
+93091,Databricks
+93091,Data bricks
+930741,Datadog
+100107,DataFlow
+100108,DataRobot
+100109,DataStage
+100110,Data Studio
+930350,DB2
+100112,DBT
+930502,Debian
+100114,Debussy
+100115,Delphi
+930351,Delta Lake
+930351,Delta
+100118,Deno
+100119,Dialogflow
+100120,DigitalOcean
+100121,DirectX
+100122,Discord
+100123,Dispatcher
+930451,Django
+93084,DNS
+100126,Doc(s)
+93061,Docker
+100128,DPDK
+100129,Druid
+100130,Drupal
+100131,DVC
+930208,DynamoDB
+930208,Dynamo DB
+100134,Dynatrace
+930201,EC2
+100136,Eclipse
+100137,ECMAScript
+100137,ES2016
+93062,ECS
+930206,EKS
+100141,Elastic Beanstalk
+930331,Elasticsearch
+930331,Elastic Search
+100144,Electron
+100145,Elixir
+930444,ELK
+100147,Eloquent
+100148,Emacs
+930204,EMR
+100150,Envoy Proxy
+100151,EPICS
+100152,Erlang
+100153,Erwin
+93100,Excel
+930453,Express
+100156,F#
+100156,F#/
+100158,Falcon
+100159,Fast.io
+100160,FastAPI
+100161,Felix
+930711,Figma
+100163,FileNet
+100164,Firebase
+100165,Flake8
+100165,Flake
+930452,Flask
+930012,Flink
+100169,Flow
+100170,Flutter
+100171,Flood.io
+100172,FME Desktop
+100173,FME Server
+100174,FOG
+100175,Fortran
+100176,Gatsby
+930220,Google Cloud
+930220,GCP
+100179,GDB
+100180,Gimp
+930700,Git
+930701,GitHub
+930702,GitLab
+100184,GKE
+100185,Glow
+100186,Gmail
+930105,Go
+930105,Golang
+100189,Google Ads
+930222,Google Analytics
+930222,GA360
+100192,Google Calendar
+100193,Google Fit
+100194,Google Marketing Platform
+100195,Google Suite
+100196,Google Tag Manager
+100197,Gradle
+930442,Grafana
+930301,GraphQL
+930113,Groovy
+93082,gRPC
+100202,GStreamer
+930024,H2O
+100204,Hack
+100204,Hacklang
+930333,Hadoop
+100207,Handlebars
+100208,Happo
+100209,Haskell
+930322,HBase
+100211,Heroku
+100212,HDInsight(s)
+100213,HHVM
+930334,Hibernate
+100215,HIP
+930353,Hive
+100217,HLSL
+100218,Hootsuite
+100219,Horovod
+930403,HTML
+930403,HTML5
+100222,HubSpot
+100223,Hudi
+100224,Hyperion
+100225,Hyperscience
+100226,Hyper V
+100226,HyperV
+100228,IBM Cloud
+100229,IBM IGC
+100230,IBM Watson
+100231,Iceberg
+100232,Illustrator
+930340,InfluxDB
+93027,Informatica
+100235,InsightVM
+100236,InSpec
+100237,IntelliJ
+100238,Invision
+93054,iOS
+100240,Istio
+100241,Ixia
+100242,Jackrabbit
+100242,Oak
+100244,JADE
+100245,Jaeger
+930101,Java
+100247,JavaOS
+930400,JavaScript
+930400,Java Script
+930400,JS
+100251,JCR
+930720,Jenkins
+100253,Jetson
+930710,Jira
+100255,JMeter
+100256,JMP
+930411,jQuery
+100258,Juju
+100259,Julia
+93096,Jupyter
+100261,JupyterLab
+100262,Jupyter Notebook
+100262,JupyterNotebook
+930341,Kafka
+100265,Karate
+100266,Kegg
+930002,Keras
+930443,Kibana
+930209,Kinesis
+930109,Kotlin
+100271,Ksh
+930022,Kubeflow
+93060,Kubernetes
+93060,K8(s)
+930202,Lambda
+930455,Laravel
+100277,LDQ
+100278,Leaflet
+100278,LeafletJS
+100280,Lex
+100281,Linode
+930500,Linux
+100283,LISP
+100284,LLDB
+930130,LLVM
+100286,Locust
+100287,Logstash
+930221,Looker
+100289,Lua
+100290,Lucene
+100291,Lucidchart
+100291,Lucid Chart
+100293,LUIS
+93053,MacOS
+93053,OS X
+93053,Mac
+100297,Mari
+100298,MariaDB
+100299,MasterCAM
+100300,Mathcad
+930115,Matlab
+930033,Matplotlib
+930722,Maven
+100304,Max
+100305,Maya
+100306,Mercurial
+100307,Metasploit
+100308,Microsoft 365
+100308,MS 365
+100308,O365
+100308,Office 365
+100312,Microsoft Deployment Toolkit
+93101,Microsoft Office
+93101,MS Office
+100315,Microsoft Project
+100315,MS Project
+930312,Microsoft SQL Server
+930312,SQLServer
+100319,Microsoft Teams
+100319,MSTeams
+100321,MicroStation
+100322,Microstrategy
+930023,MLFlow
+930021,MLlib
+930021,SparkML
+100326,Mocha
+100327,Mockito
+930323,MongoDB
+100329,Mustache
+930003,MXNet
+100331,Mypy
+930310,MySQL
+100333,Neo4j
+100334,Neovim
+100335,Nessus
+100336,NestJS
+93090,.NET
+93090,NET
+100339,.NET Core
+100340,.NET Framework
+100341,NetBeans
+100342,New Relic
+100343,Nexus
+100344,Nginx
+930050,NLTK
+93042,Node
+93042,NodeJS
+93042,Node.js
+100349,Notepad++
+100350,Nuance
+100351,Nuke
+930031,NumPy
+100353,OAuth
+930112,Objective C
+930112,Obj C
+100356,Omnify
+100357,Onshape
+100358,ONNX
+93094,OpenCL
+930040,OpenCV
+930461,OpenGL
+100362,OpenLDAP
+100363,OpenMP
+93065,OpenShift
+93028,OpenStack
+100366,OpenTracing
+100367,OpenVINO
+930352,Oracle
+100369,Oracle Cloud
+100370,OrCAD
+100371,OSGI
+100372,OWASP
+100373,PADS
+100374,PagerDuty
+930030,Pandas
+100376,Pega
+100377,Perforce
+930107,Perl
+9300462,Photoshop
+930404,PHP
+100381,PHPStorm
+100382,PlayFab
+100383,PostGIS
+930311,PostgreSQL
+930311,Postgres
+930441,Power BI
+930441,PowerBI
+93102,PowerPoint
+930561,PowerShell
+100390,Pre Commit
+930330,Presto
+930740,Prometheus
+100393,ProtoBuf
+930727,Protractor
+100395,Pulumi
+930753,Puppet
+100397,PureCloud
+100398,PureConnect
+100399,Pure Data
+100400,PyCharm
+100401,PyQt
+930013,PySpark
+930725,Pytest
+930120,Python
+930001,PyTorch
+100406,QGIS
+100407,Qlik
+100408,QML
+100409,Qt
+100410,Quarkus
+930114,R
+93083,RabbitMQ
+100413,Radium
+100414,RAML
+100415,Rasa
+930410,React
+930410,ReactJS
+930410,React.js
+930458,React Native
+100420,Reaktor
+930324,Redis
+930203,Redshift
+930412,Redux
+93080,RESTful
+100425,Restlet
+100426,Rider
+100427,Rook
+93058,ROS
+100429,R Shiny
+100430,RSpec
+100431,RStudio
+930108,Ruby
+100433,RubyMine
+930456,Ruby on Rails
+930110,Rust
+100436,RxSwift
+930210,S3
+100438,SABA cloud
+100439,Sabre
+930207,SageMaker
+93025,Salesforce
+93025,Saleforce
+93025,Salesforce.com
+100444,SaltStack
+930354,SAP
+930011,SAS
+930106,Scala
+100448,Scala.js
+100448,ScalaJS
+930020,Scikit Learn
+930020,SKlearn
+930032,SciPy
+100453,Seaborn
+930724,Selenium
+100455,Sentry
+100456,ServiceNow
+930712,SharePoint
+100458,Sheet(s)
+930562,Shell
+100460,SignalFx
+93067,Singularity
+100462,Sisense
+930460,Sketch
+100464,Slack
+100465,Slide(s)
+100466,Slim
+100467,Sling
+930723,Slurm
+930355,Snowflake
+100470,Solaris
+100471,SolidWorks
+100472,Solr
+930010,Spark
+100474,Spinnaker
+93026,Splunk
+93092,Spring
+100477,Spring Boot
+930300,SQL
+100479,SQLite
+100480,Statsmodel(s)
+100481,Streamlit
+100482,STRING
+100483,Sublime Text
+930704,Subversion
+930704,SVN
+100487,SumoLogic
+100487,Sumo Logic
+100488,Svelte
+100489,Swagger
+93066,Swarm
+930111,Swift
+100492,Symfony
+100493,SysDig
+930440,Tableau
+100495,Talend
+100496,TBB
+100497,Tealium
+930000,TensorFlow
+930000,Tensor Flow
+93024,Teradata
+930750,Terraform
+100502,TestRail
+100502,Test Rail
+100504,TextMate
+930005,Theano
+100506,Three.js
+100507,TM1Py
+100508,Tomcat
+100509,Torch
+100510,Travelport
+100511,TVM
+930401,TypeScript
+930501,Ubuntu
+930714,UiPath
+100515,UML
+100516,Uniprot
+93095,Unity
+93052,Unix
+93093,Unreal
+100520,UrbanCode
+100521,Vagrant
+100522,Valgrind
+100523,VBA
+100524,VCS
+100525,Verilog
+100526,VHDL
+100527,Vim
+100528,Virtual Agent Designer
+93104,Visio
+93097,Visual Studio
+100531,Visual Studio Code
+100531,VSCode
+93064,VMWare
+100534,VoiceXML
+100535,VPC(s)
+100536,vSphere
+930450,Vue
+930450,Vue.js
+100539,Vuforia
+100540,Vulkan
+100541,Vyond
+100542,WebdriverIO
+100543,WebGL
+100544,WebRTC
+100545,Webstorm
+100546,Whois
+100547,WinDbg
+93051,Windows
+93103,Word
+100550,Wordpress
+100551,Workfusion
+100552,WSDL
+100553,WSL
+100554,Xamarin
+100555,Xcode
+100556,XLA
+93081,XML
+100558,xSQL
+100559,YAML
+100560,Yarn
+100561,Yocto
+100562,Zendesk
+100563,Ziva
+100564,ZMQ
+100565,Zoho
+100566,Zookeeper
+100567,Zoom
+100568,Zsh

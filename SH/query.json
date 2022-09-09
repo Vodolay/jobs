@@ -1,0 +1,27 @@
+query MyQuery {
+    techs(first: 20) {
+      name
+      nodeid
+      children(first: 20) {
+        name
+        nodeid
+        children(first: 20) {
+          name
+          nodeid
+          children(first: 20) {
+            name
+            nodeid
+            children(first: 20) {
+              name
+              nodeid
+              children(first: 20) {
+                name
+                nodeid
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  

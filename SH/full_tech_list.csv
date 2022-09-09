@@ -1,0 +1,570 @@
+name
+ABBYY
+ABBY
+Adobe Analytics
+Adobe Audience Manager
+Adobe CC
+Adobe Launch
+Adobe Target
+Adobe XD
+AdobeXD
+ADONIS
+AFT Fathom
+Airflow
+AKS
+Alation
+Altium Designer
+Amadeus
+Amazon Connect
+Anaplan
+Android
+Android Studio
+Angular
+AngularJS
+Ansible
+Ansys
+Ant
+API Gateway
+APL
+App Engine
+AppEngine
+Apple Health
+ArcGIS
+ARCore
+Argo
+Argo CD
+ArgoCD
+ARKit
+Asana
+ASP.NET
+Assembly
+Atom
+AutoCAD
+Autodesk
+Automation Anywhere
+Avaya
+AWS
+Amazon Web Services
+Axure
+Azure
+Microsoft Cloud
+Azure Data Lake
+Azure DevOps
+Microsoft TFS
+Azure Machine Learning
+Azure SQL
+Babylon.js
+Bash
+Bazel
+Beam
+BigQuery
+Bitbucket
+BlazeMeter
+Blue Prism
+BluePrism
+Botmock
+Botsociety
+BSD
+Buck
+C#
+C#/
+C++
+C
+Caffe
+Calico
+Camtasia
+Cassandra
+CentOS
+Ceph
+Chef
+ClearSCADA
+ClickHouse
+Clojure
+CloudFormation
+CMake
+COBOL
+Cognitive Search
+Collibra
+Confluence
+Cordova
+Core ML
+CoreML
+Cosmos DB
+Couchbase
+Craft
+CSS
+CSS3
+Cucumber
+CUDA
+Cykit
+Cypher
+Cypress
+Cython
+Dart
+Dash
+Dask
+Databricks
+Data bricks
+Datadog
+DataFlow
+DataRobot
+DataStage
+Data Studio
+DB2
+DBT
+Debian
+Debussy
+Delphi
+Delta Lake
+Delta
+Deno
+Dialogflow
+DigitalOcean
+DirectX
+Discord
+Dispatcher
+Django
+DNS
+Doc(s)
+Docker
+DPDK
+Druid
+Drupal
+DVC
+DynamoDB
+Dynamo DB
+Dynatrace
+EC2
+Eclipse
+ECMAScript
+ES2016
+ECS
+EKS
+Elastic Beanstalk
+Elasticsearch
+Elastic Search
+Electron
+Elixir
+ELK
+Eloquent
+Emacs
+EMR
+Envoy Proxy
+EPICS
+Erlang
+Erwin
+Excel
+Express
+F#
+F#/
+Falcon
+Fast.io
+FastAPI
+Felix
+Figma
+FileNet
+Firebase
+Flake8
+Flake
+Flask
+Flink
+Flow
+Flutter
+Flood.io
+FME Desktop
+FME Server
+FOG
+Fortran
+Gatsby
+Google Cloud
+GCP
+GDB
+Gimp
+Git
+GitHub
+GitLab
+GKE
+Glow
+Gmail
+Go
+Golang
+Google Ads
+Google Analytics
+GA360
+Google Calendar
+Google Fit
+Google Marketing Platform
+Google Suite
+Google Tag Manager
+Gradle
+Grafana
+GraphQL
+Groovy
+gRPC
+GStreamer
+H2O
+Hack
+Hacklang
+Hadoop
+Handlebars
+Happo
+Haskell
+HBase
+Heroku
+HDInsight(s)
+HHVM
+Hibernate
+HIP
+Hive
+HLSL
+Hootsuite
+Horovod
+HTML
+HTML5
+HubSpot
+Hudi
+Hyperion
+Hyperscience
+Hyper V
+HyperV
+IBM Cloud
+IBM IGC
+IBM Watson
+Iceberg
+Illustrator
+InfluxDB
+Informatica
+InsightVM
+InSpec
+IntelliJ
+Invision
+iOS
+Istio
+Ixia
+Jackrabbit
+Oak
+JADE
+Jaeger
+Java
+JavaOS
+JavaScript
+Java Script
+JS
+JCR
+Jenkins
+Jetson
+Jira
+JMeter
+JMP
+jQuery
+Juju
+Julia
+Jupyter
+JupyterLab
+Jupyter Notebook
+JupyterNotebook
+Kafka
+Karate
+Kegg
+Keras
+Kibana
+Kinesis
+Kotlin
+Ksh
+Kubeflow
+Kubernetes
+K8(s)
+Lambda
+Laravel
+LDQ
+Leaflet
+LeafletJS
+Lex
+Linode
+Linux
+LISP
+LLDB
+LLVM
+Locust
+Logstash
+Looker
+Lua
+Lucene
+Lucidchart
+Lucid Chart
+LUIS
+MacOS
+OS X
+Mac
+Mari
+MariaDB
+MasterCAM
+Mathcad
+Matlab
+Matplotlib
+Maven
+Max
+Maya
+Mercurial
+Metasploit
+Microsoft 365
+MS 365
+O365
+Office 365
+Microsoft Deployment Toolkit
+Microsoft Office
+MS Office
+Microsoft Project
+MS Project
+Microsoft SQL Server
+SQLServer
+Microsoft Teams
+MSTeams
+MicroStation
+Microstrategy
+MLFlow
+MLlib
+SparkML
+Mocha
+Mockito
+MongoDB
+Mustache
+MXNet
+Mypy
+MySQL
+Neo4j
+Neovim
+Nessus
+NestJS
+.NET
+NET
+.NET Core
+.NET Framework
+NetBeans
+New Relic
+Nexus
+Nginx
+NLTK
+Node
+NodeJS
+Node.js
+Notepad++
+Nuance
+Nuke
+NumPy
+OAuth
+Objective C
+Obj C
+Omnify
+Onshape
+ONNX
+OpenCL
+OpenCV
+OpenGL
+OpenLDAP
+OpenMP
+OpenShift
+OpenStack
+OpenTracing
+OpenVINO
+Oracle
+Oracle Cloud
+OrCAD
+OSGI
+OWASP
+PADS
+PagerDuty
+Pandas
+Pega
+Perforce
+Perl
+Photoshop
+PHP
+PHPStorm
+PlayFab
+PostGIS
+PostgreSQL
+Postgres
+Power BI
+PowerBI
+PowerPoint
+PowerShell
+Pre Commit
+Presto
+Prometheus
+ProtoBuf
+Protractor
+Pulumi
+Puppet
+PureCloud
+PureConnect
+Pure Data
+PyCharm
+PyQt
+PySpark
+Pytest
+Python
+PyTorch
+QGIS
+Qlik
+QML
+Qt
+Quarkus
+R
+RabbitMQ
+Radium
+RAML
+Rasa
+React
+ReactJS
+React.js
+React Native
+Reaktor
+Redis
+Redshift
+Redux
+RESTful
+Restlet
+Rider
+Rook
+ROS
+R Shiny
+RSpec
+RStudio
+Ruby
+RubyMine
+Ruby on Rails
+Rust
+RxSwift
+S3
+SABA cloud
+Sabre
+SageMaker
+Salesforce
+Saleforce
+Salesforce.com
+SaltStack
+SAP
+SAS
+Scala
+Scala.js
+ScalaJS
+Scikit Learn
+SKlearn
+SciPy
+Seaborn
+Selenium
+Sentry
+ServiceNow
+SharePoint
+Sheet(s)
+Shell
+SignalFx
+Singularity
+Sisense
+Sketch
+Slack
+Slide(s)
+Slim
+Sling
+Slurm
+Snowflake
+Solaris
+SolidWorks
+Solr
+Spark
+Spinnaker
+Splunk
+Spring
+Spring Boot
+SQL
+SQLite
+Statsmodel(s)
+Streamlit
+STRING
+Sublime Text
+Subversion
+SVN
+SumoLogic
+Sumo Logic
+Svelte
+Swagger
+Swarm
+Swift
+Symfony
+SysDig
+Tableau
+Talend
+TBB
+Tealium
+TensorFlow
+Tensor Flow
+Teradata
+Terraform
+TestRail
+Test Rail
+TextMate
+Theano
+Three.js
+TM1Py
+Tomcat
+Torch
+Travelport
+TVM
+TypeScript
+Ubuntu
+UiPath
+UML
+Uniprot
+Unity
+Unix
+Unreal
+UrbanCode
+Vagrant
+Valgrind
+VBA
+VCS
+Verilog
+VHDL
+Vim
+Virtual Agent Designer
+Visio
+Visual Studio
+Visual Studio Code
+VSCode
+VMWare
+VoiceXML
+VPC(s)
+vSphere
+Vue
+Vue.js
+Vuforia
+Vulkan
+Vyond
+WebdriverIO
+WebGL
+WebRTC
+Webstorm
+Whois
+WinDbg
+Windows
+Word
+Wordpress
+Workfusion
+WSDL
+WSL
+Xamarin
+Xcode
+XLA
+XML
+xSQL
+YAML
+Yarn
+Yocto
+Zendesk
+Ziva
+ZMQ
+Zoho
+Zookeeper
+Zoom
+Zsh
